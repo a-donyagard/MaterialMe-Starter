@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Material Me!</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">
+        لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.
+        چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.
+        کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد.
+        در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+    </string>
+
+    <string-array name="sports_titles">
+        <item>بیسبال</item>
+        <item>بدمینتون</item>
+        <item>بسکتبال</item>
+        <item>بولینگ</item>
+        <item>دوچرخه سواری</item>
+        <item>گلف</item>
+        <item>دو میدانی</item>
+        <item>فوتبال</item>
+        <item>شنا</item>
+        <item>تنیس روی میز</item>
+        <item>تنیس</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+    <string-array name="sports_info">
+        <item>این قسمت اخبار مربوط به بیسبال است!</item>
+        <item>این قسمت اخبار مربوط به بدمینتون است!</item>
+        <item>این قسمت اخبار مربوط به بسکتبال است!</item>
+        <item>این قسمت اخبار مربوط به بولینگ است!</item>
+        <item>این قسمت اخبار مربوط به دوچرخه سواری است!</item>
+        <item>این قسمت اخبار مربوط به گلف است!</item>
+        <item>این قسمت اخبار مربوط به دو میدانی است!</item>
+        <item>این قسمت اخبار مربوط به فوتبال است!</item>
+        <item>این قسمت اخبار مربوط به شنا است!</item>
+        <item>این قسمت اخبار مربوط به تنیس روی میز است!</item>
+        <item>این قسمت اخبار مربوط به تنیس است!</item>
+    </string-array>
+
+</resources>
